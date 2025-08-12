@@ -22,7 +22,7 @@ Agosto-Diciembre 2025
 
 ### AVISOS
 
-En esta sección se publicarán los anuncios del curso (que también serán publicados en Canvas).
+* Se encuentra subida la Tarea 1 en la seccion tareas
 
 ### Descripción del Curso
 
