@@ -22,7 +22,7 @@ Agosto-Diciembre 2025
 
 ### AVISOS
 
-* Se encuentra subida la Tarea 1 en la seccion tareas
+* (12/08) Se encuentra subida la Tarea 1 en la seccion tareas
 
 ### Descripción del Curso
 
