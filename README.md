@@ -47,7 +47,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 2       | **Factorización Matricial: FunkSVD**                      | [slides](./clases/s2_c2-Factorizacion_matricial_v2025.pdf) ([apunte FunkSVD](./clases/FunkSVD_2025_iic3633.pdf))   |
 | 2       | **Implicit Feedback CF, WMF(ALS)**                                  | [slides](./clases/s2_c2-Implicit%20Feedback%20ALS-2025.pdf)    |
 | 3       | **Bayesian Personalized Ranking (BPR)**                   | [slides](./clases/s3_c2-BPR.pdf)    |
-| 3       | **Evaluación: metricas de error y ranking**               | [slides](./clases/s4_c1-metricas_v2.pdf)    |    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
+| 3       | **Evaluación: metricas de error y ranking**               | [slides](./clases/s3_c1-metricas_v3.pdf)    |    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
 | 3       | **Evaluación II: Cobertura, diversidad, novedad**                        | [slides](./clases/s3_c1-metricas_v3.pdf)    | 
 | 3       | **Evaluación III: Tests estadísticos**                        | [slides](./clases/s4_c2-tests_estadisticos.pdf)     |
 | 4       | **Recomendación basada en contenido 1**                   | [slides](./clases/s5_c1-content-2024.pdf)    | 
