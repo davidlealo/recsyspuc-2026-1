@@ -14,7 +14,7 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 7  | [DeepFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/07_deepfm.ipynb)             | 8      | 22 de septiembre       | Juan Manuel Hernandez | |
 | 8  | [MultiVAE](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/08_MultiVAE.ipynb)                                     | 9      | 29 de septiembre       | |
 | 9  | [Recomendación con Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/09_Reinforcement_Learning_Mabwiser)     | 10      | 6 de octubre       | |
-| 10 | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/10_GRU4Rec.ipynb)                     | 11      | 13 de octubre       | |
+| 10 | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/10_GRU4Rec.ipynb)                     | 11      | 13 de octubre       | Pedro Palma|
 
 
 
