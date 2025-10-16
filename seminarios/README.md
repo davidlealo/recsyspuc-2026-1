@@ -6,38 +6,35 @@
 
 - El listado de papers para elegir se encuentra disponible en el siguiente [enlace](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EXMF6oB-ZB9LrXqxumKm3ZEBpxpzz5w-cRL6F58ntRUb_A?e=qQPmAF). En este deben inscribir con su grupo el paper que deseen presentar. Tienen hasta el viernes 3 de octubre para inscribirse. En caso de que no se hayan inscrito para dicha fecha, se les asignará de manera aleatoria a una presentación.
 
-- El calendario de presentaciones se publicará y disponibilizará en este apartado.
-
-<!-- - El [calendario de presentaciones](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/ESvMv0yEcL1OiuPmfHbwIhABYW88ByAst9RWuDhkNIRkmg?e=SHOzqg) está publicado y disponible en el enlace adjunto. -->
+- El [calendario de presentaciones](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EcPWWwkuJ8FOpCzYBd_riBYBsWEMvXlJjAi5M0tqMunchA?e=NgqN0i) está publicado y disponible en el enlace adjunto.
 
 - En Canvas está disponible el buzón donde se debe entregar el material correspondiente a su seminario, el cual deben enviar hasta las **20:00 hrs del día anterior de su presentación**.
 
-<!-- - El [formulario de coevaluación](https://docs.google.com/forms/d/e/1FAIpQLSeVBcs37GbTIGxhxPoKGO5fC6epojtGuq69NUSO6vDNsg6exw/viewform?usp=preview) lo pueden encontrar en el enlace adjunto. -->
+- El [formulario de coevaluación](https://forms.gle/LeeifvgLAsaqUXbm7) lo pueden encontrar en el enlace adjunto.
 
-- El formulario de coevaluación se publicará y disponibilizará en este apartado.
 
 ## Cronograma y material de seminarios
 
-| Semana  | Paper            | Link slide(s) | Conferencia   | Presentación  |
-|:--------|:-----------------|:-------------:|:-------------:|:-------------:|
-|12       |  ||||
-|12       |  ||||
-|12       |  ||||
-|12       |  ||||
-|13       |  ||||
-|13       |  ||||
-|13       |  ||||
-|13       |  ||||
-|14       |  ||||
-|14       |  ||||
-|14       |  ||||
-|14       |  ||||
-|15       |  ||||
-|15       |  ||||
-|15       |  ||||
-|15       |  ||||
-|16       |  ||||
-|16       |  ||||
-|16       |  ||||
-|16       |  ||||
-|17       |  ||||
+| Semana  | Día    | Paper            | Link slide(s) | Conferencia   | Presentación  |
+|:--------|:-------|:-----------------|:-------------:|:-------------:|:-------------:|
+|12       | 21-oct | User Welfare Optimization in Recommender Systems with Competing Content Creators | | [KDD 2024]((https://arxiv.org/abs/2404.18319)) | |
+|12       | 21-oct | Rethinking Multi-Interest Learning for Candidate Matching in Recommender Systems | | [ACM RecSys 2023](https://arxiv.org/abs/2302.14532) | |
+|12       | 23-oct | Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations | | [SIGIR 2022](https://doi.org/10.1145/3477495.3532041) | |
+|12       | 23-oct | Budgeted Embedding Table For Recommender Systems | | [WSDM 2024](https://arxiv.org/abs/2310.14884) | |
+|13       | 28-oct | Large Language Models are Zero-Shot Rankers for Recommender Systems | | [ECIR 2024](https://arxiv.org/abs/2305.08845) ||
+|13       | 28-oct | Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias | | [KDD 2024](https://arxiv.org/abs/2405.20718) ||
+|13       | 30-oct | Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited | | [SIGIR 2023](https://arxiv.org/abs/2303.13835) ||
+|13       | 30-oct | Combining Graph Neural Networks and Sentence Encoders for Knowledge-aware Recommendations | | [UMAP 2023](https://dl.acm.org/doi/pdf/10.1145/3565472.3592965?casa_token=8kpp843rbjAAAAAA:22rOkeeMrX9BroRHHl5XcrLZSKwf6BO-XU4Gh0l5hQpmK_pZ5HN18CUzBD08giGdL1Dwphua-ylHAg) ||
+|14       | 04-nov | A/b testing for recommender systems in a two-sided marketplace | | [Neurips 2021](https://proceedings.neurips.cc/paper_files/paper/2021/file/32e19424b63cc63077a4031b87fb1010-Paper.pdf) ||
+|14       | 04-nov | Take a Fresh Look at Recommender Systems from an Evaluation Standpoint | | [SIGIR 2023](https://arxiv.org/abs/2210.04149) ||
+|14       | 06-nov | When Recommender Systems Snoop into Social Media, Users Trust them Less for Health Advice | | [SIGIR 2024](https://arxiv.org/abs/2402.17279) ||
+|14       | 06-nov | Generative-Contrastive Graph Learning for Recommendation | | [SIGIR 2023](https://dl.acm.org/doi/pdf/10.1145/3539618.3591691) ||
+|15       | 11-nov | Generate what you prefer: Reshaping sequential recommendation via guided diffusion. | | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/4c5e2bcbf21bdf40d75fddad0bd43dc9-Paper-Conference.pdf) ||
+|15       | 11-nov | Decoupled Side Information Fusion for Sequential Recommendation | | [SIGIR 2022](https://doi.org/10.1145/3477495.3531963) ||
+|15       | 13-nov | Recommender Systems with Generative Retrieval | | [NeurIPS 2023](https://arxiv.org/abs/2305.05065) ||
+|15       | 13-nov | Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems | | [ECIR 2024](https://arxiv.org/pdf/2401.08444) ||
+|16       | 18-nov | User Consented Federated Recommender System Against Personalized Attribute Inference Attack | | [WSDM 2024](https://arxiv.org/abs/2312.16203) ||
+|16       | 18-nov | PTADisc: a cross-course dataset supporting personalized learning in cold-start scenarios. | | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8cf04c64d1734e5f7e63418a2a4d49de-Paper-Datasets_and_Benchmarks.pdf) ||
+|16       | 20-nov |  | |  ||
+|16       | 20-nov | Enhancing user intent capture in session-based recommendation with attribute patterns | | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/621d0fd41c720ab252e178b77c200d90-Paper-Conference.pdf) ||
+|17       | 25-nov | Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights | | [WSDM 2024](https://arxiv.org/abs/2305.15036) ||
