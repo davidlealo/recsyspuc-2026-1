@@ -17,7 +17,7 @@
 
 | Semana  | Día    | Paper            | Link slide(s) | Conferencia   | Presentación  |
 |:--------|:-------|:-----------------|:-------------:|:-------------:|:-------------:|
-|12       | 21-oct | User Welfare Optimization in Recommender Systems with Competing Content Creators | | [KDD 2024]((https://arxiv.org/abs/2404.18319)) | |
+|12       | 21-oct | User Welfare Optimization in Recommender Systems with Competing Content Creators | | [KDD 2024](https://arxiv.org/abs/2404.18319) | |
 |12       | 21-oct | Rethinking Multi-Interest Learning for Candidate Matching in Recommender Systems | | [ACM RecSys 2023](https://arxiv.org/abs/2302.14532) | |
 |12       | 23-oct | Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations | | [SIGIR 2022](https://doi.org/10.1145/3477495.3532041) | |
 |12       | 23-oct | Budgeted Embedding Table For Recommender Systems | | [WSDM 2024](https://arxiv.org/abs/2310.14884) | |
