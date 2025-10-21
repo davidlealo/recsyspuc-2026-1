@@ -24,7 +24,6 @@
 |13       | 28-oct | Large Language Models are Zero-Shot Rankers for Recommender Systems | | [ECIR 2024](https://arxiv.org/abs/2305.08845) ||
 |13       | 28-oct | Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias | | [KDD 2024](https://arxiv.org/abs/2405.20718) ||
 |13       | 30-oct | Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited | | [SIGIR 2023](https://arxiv.org/abs/2303.13835) ||
-|13       | 30-oct | Combining Graph Neural Networks and Sentence Encoders for Knowledge-aware Recommendations | | [UMAP 2023](https://dl.acm.org/doi/pdf/10.1145/3565472.3592965?casa_token=8kpp843rbjAAAAAA:22rOkeeMrX9BroRHHl5XcrLZSKwf6BO-XU4Gh0l5hQpmK_pZ5HN18CUzBD08giGdL1Dwphua-ylHAg) ||
 |14       | 04-nov | A/b testing for recommender systems in a two-sided marketplace | | [Neurips 2021](https://proceedings.neurips.cc/paper_files/paper/2021/file/32e19424b63cc63077a4031b87fb1010-Paper.pdf) ||
 |14       | 04-nov | Take a Fresh Look at Recommender Systems from an Evaluation Standpoint | | [SIGIR 2023](https://arxiv.org/abs/2210.04149) ||
 |14       | 06-nov | When Recommender Systems Snoop into Social Media, Users Trust them Less for Health Advice | | [SIGIR 2024](https://arxiv.org/abs/2402.17279) ||
@@ -38,3 +37,4 @@
 |16       | 20-nov | STAR: A Simple Training-free Approach for Recommendations using Large Language Models | | [ACL Journal 2024](https://arxiv.org/pdf/2410.16458) ||
 |16       | 20-nov | Enhancing user intent capture in session-based recommendation with attribute patterns | | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/621d0fd41c720ab252e178b77c200d90-Paper-Conference.pdf) ||
 |17       | 25-nov | Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights | | [WSDM 2024](https://arxiv.org/abs/2305.15036) ||
+|17       | 25-nov | Combining Graph Neural Networks and Sentence Encoders for Knowledge-aware Recommendations | | [UMAP 2023](https://dl.acm.org/doi/pdf/10.1145/3565472.3592965?casa_token=8kpp843rbjAAAAAA:22rOkeeMrX9BroRHHl5XcrLZSKwf6BO-XU4Gh0l5hQpmK_pZ5HN18CUzBD08giGdL1Dwphua-ylHAg) ||
