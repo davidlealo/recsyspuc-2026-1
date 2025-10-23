@@ -22,6 +22,7 @@ Agosto-Diciembre 2025
 
 ### AVISOS
 
+* (23/10) Se deja completo la calendarización y material de los seminarios en el README de la carpeta [seminarios/](./seminarios)
 * (09/09) Se publica el enunciado del Proyecto de Curso, el cual se encuentra disponible en el siguiente [enlace](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2025_2.pdf)
 * (21/08) La lista de grupos para la Tarea 1 se encuentra disponible en el siguiente [enlace](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/ESNgTUog-j5InY5SY3I8GYgBU__K6e_Lzp_6v5pcsJ5Uag), donde los alumnos sin acceso a Canvas pueden inscribirse directamente.
 * (12/08) Se encuentra subida la Tarea 1 en el siguiente [enlace](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/tareas/Tarea_1_RecSys_2025_2.pdf).
@@ -108,7 +109,7 @@ Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fec
 
 **Seminario (25%)**
 
-En la segunda mitad del semestre, los estudiantes formarán grupos para leer un artículo y realizar una presentación acerca de este frente al resto del curso. Las presentaciones se realizarán entre las clases del 21 de octubre y 20 de noviembre. Los artículos a presentar se publicarán el martes 23 de septiembre.
+En la segunda mitad del semestre, los estudiantes formarán grupos para leer un artículo y realizar una presentación acerca de este frente al resto del curso. Las presentaciones se realizarán entre las clases del 21 de octubre y 20 de noviembre. Los artículos a presentar se publicarán el martes 23 de septiembre. Todo el material se encuentra publicado en el README en la carpeta [seminarios/](./seminarios).
 
 **Proyecto Final (40%)** 
 
