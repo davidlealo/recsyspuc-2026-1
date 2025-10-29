@@ -35,6 +35,5 @@
 |16       | 18-nov | PTADisc: a cross-course dataset supporting personalized learning in cold-start scenarios. | | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8cf04c64d1734e5f7e63418a2a4d49de-Paper-Datasets_and_Benchmarks.pdf) ||
 |16       | 20-nov | STAR: A Simple Training-free Approach for Recommendations using Large Language Models | | [ACL Journal 2024](https://arxiv.org/pdf/2410.16458) ||
 |16       | 20-nov | Enhancing user intent capture in session-based recommendation with attribute patterns | | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/621d0fd41c720ab252e178b77c200d90-Paper-Conference.pdf) ||
-|17       | 25-nov | Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights | | [WSDM 2024](https://arxiv.org/abs/2305.15036) ||
 |17       | 25-nov | Combining Graph Neural Networks and Sentence Encoders for Knowledge-aware Recommendations | | [UMAP 2023](https://dl.acm.org/doi/pdf/10.1145/3565472.3592965?casa_token=8kpp843rbjAAAAAA:22rOkeeMrX9BroRHHl5XcrLZSKwf6BO-XU4Gh0l5hQpmK_pZ5HN18CUzBD08giGdL1Dwphua-ylHAg) ||
 |17       | 25-nov | Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited | | [SIGIR 2023](https://arxiv.org/abs/2303.13835) ||
