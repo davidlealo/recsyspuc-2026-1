@@ -87,7 +87,7 @@ Habrá una actividad práctica relacionada a cada ayudantía, la cual consistir�
 
 Se realizará una tarea que constará de dos partes:
 
-- Interrogación métricas (25%): Se realizará un práctico en clases (martes 26 de agosto) acerca de métricas y se entregará a final de la clase​. La inasistencia no justificada equivaldrá a un 1.0.
+- Interrogación métricas (25%): Se realizará un práctico en clases (martes 31 de marzo, dependiendo de respuesta DIPRE) acerca de métricas y se entregará a final de la clase​. La inasistencia no justificada equivaldrá a un 1.0.
 - I2 (25%): por definir.
 - Tarea (50%): Deberán implementar mecanismos de recomendación para predecir ratings y para rankear items en un dataset entregado por el cuerpo docente.
 
