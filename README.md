@@ -19,7 +19,7 @@ Marzo-Julio 2026
 **Programa** IIC3633, 1er Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
 ### AVISOS
-* Plazo para la lectura 1 es este martes 9 de marzo. Recuerda crear tu cuenta en perusall <a href="https://app.perusall.com/join/PARRA-XZXAH">en este link (codigo curso PARRA-XZXAH)</a>
+* Plazo para la lectura 1 es este lunes 9 de marzo. Recuerda crear tu cuenta en perusall <a href="https://app.perusall.com/join/PARRA-XZXAH">en este link (codigo curso PARRA-XZXAH)</a>
 
 ### Descripción del Curso
 
@@ -108,9 +108,9 @@ En la segunda mitad del semestre, los estudiantes formarán grupos para leer un 
 
 A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante octubre, noviembre e inicios de diciembre. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters, además de un informe formato paper.
 
-# Lecturas
-
 **IMPORTANTE**: Todas las entregas del curso son a las 20:00 del día de entrega correspondiente.
+
+# Lecturas
 
 ### Semana 1 (entrega el 9 de marzo):  
 
