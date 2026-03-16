@@ -8,11 +8,11 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 1  | [uKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/practicos/01_uKNN_Surprise.ipynb) y [iKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/practicos/01_iKNN_Surprise.ipynb)                                   | 2      | 09 de marzo       | Alejandro Plaza |
 | 2  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/practicos/02_pyRecLab_FunkSVD.ipynb)                                        | 3      | 16 de marzo       | Alejandro Plaza |
 | 3  | [Implicit Feedback](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/practicos/03_Implicit_feedback_Implicit.ipynb)                             | 4      | 23 de marzo       |  Nicolás Estévez |
-| 4  | Content Based texto  y Content Based imágenes | 5      | 30 de marzo       |  | |
+| 4  | Content Based texto  y Content Based imágenes | 5      | 30 de marzo       | Juan Manuel Hernandez |
 | 5  | Híbridos y Ensambles                      | 6      | 06 de abril       | Alejandro Plaza | 
-| 6  | LightFM                                       | 7      | 13 de abril      | | 
+| 6  | LightFM                                       | 7      | 13 de abril      | Juan Manuel Hernandez | 
 | 7  | MultiVAE                                     | 8      | 20 de abril       | |
-| 8  | DeepFM             | 9      | 27 de abril       | | |
+| 8  | DeepFM             | 9      | 27 de abril       | Juan Manuel Hernandez |
 | 9  | Recomendación con Reinforcement Learning    | 10      | 04 de mayo       | |
 | 10 | Recomendación Secuencial                   | 11      | 11 de mayo       | Alejandro Plaza |
 
