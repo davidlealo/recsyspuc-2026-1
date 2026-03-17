@@ -11,9 +11,9 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 4  | Content Based texto  y Content Based imágenes | 5      | 30 de marzo       | Juan Manuel Hernandez |
 | 5  | Híbridos y Ensambles                      | 6      | 06 de abril       | Alejandro Plaza | 
 | 6  | LightFM                                       | 7      | 13 de abril      | Juan Manuel Hernandez | 
-| 7  | MultiVAE                                     | 8      | 20 de abril       | |
+| 7  | MultiVAE                                     | 8      | 20 de abril       | Nicolás Estévez |
 | 8  | DeepFM             | 9      | 27 de abril       | Juan Manuel Hernandez |
-| 9  | Recomendación con Reinforcement Learning    | 10      | 04 de mayo       | |
+| 9  | Recomendación con Reinforcement Learning    | 10      | 04 de mayo       | Nicolás Estévez |
 | 10 | Recomendación Secuencial                   | 11      | 11 de mayo       | Alejandro Plaza |
 
 ## Material 2025
