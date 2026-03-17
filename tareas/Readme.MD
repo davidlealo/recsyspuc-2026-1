@@ -1,13 +1,11 @@
 # Tarea del Curso
 
 ## Indicaciones Generales
-    
-- Fecha de entrega: **Viernes 05 de septiembre del 2025, 20:00 horas**
+
 - Enunciado: En el repositorio.
-<!--
-- La tarea debe realizarse **en grupos de dos personas**. Para inscribir sus grupos, deberán editar la hoja de cálculo en este [enlace](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EX1RGi1R5GNPqzI2rOCxDkoB_tXEPcDJi3cuze9p8PGGLg?e=4jGc8P) a más tardar el día **viernes 21 de marzo del
-2025 a las 20:00 horas**. Quiénes no tengan grupo para esa fecha, serán asignados de manera aleatoria.
-        
+- Fecha de entrega: **Viernes 10 de abril del 2026, 20:00 horas**
+- La tarea debe realizarse **en grupos de dos personas**. Deben inscribir su grupo en Canvas a más tardar el día **lunes 23 de marzo a las 20:00 horas**. Quiénes no tengan grupo para esa fecha, serán asignados de manera aleatoria.
+<!--         
 - La copia será sancionada con una nota 1.1 en la tarea, además de las sanciones disciplinarias correspondientes.
         
 - Entrega a través de CANVAS, en el buzón de la tarea correspondiente. Solamente deberá entregar uno de los estudiantes del grupo, con los nombres de ambos estudiantes en todos los archivos entregados.
@@ -22,6 +20,4 @@
         
     - Se debe compartir la conversación completa de cada una de las sesiones usadas (link de ChatGPT, Claude, Gemini, etc)
     
-    - El código y el informe debe ser redactado por es ustedes. Se puede usar la IA para realizar consultas de contenido, ortografía y dudas de código, pero no se puede pedir a la IA que realice la tarea (o una parte de esta) por ustedes.
-
-!->>
+    - El código y el informe debe ser redactado por es ustedes. Se puede usar la IA para realizar consultas de contenido, ortografía y dudas de código, pero no se puede pedir a la IA que realice la tarea (o una parte de esta) por ustedes. -->

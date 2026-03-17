@@ -21,6 +21,8 @@ Marzo-Julio 2026
 ### AVISOS
 * Plazo para la lectura 1 es este lunes 9 de marzo. Recuerda crear tu cuenta en perusall <a href="https://app.perusall.com/join/PARRA-XZXAH">en este link (codigo curso PARRA-XZXAH)</a>
 
+* Publicación del enunciado de la [Tarea 1](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/tareas/Tarea_1_RecSys_2026_1.pdf). Recuerden inscribir sus parejas en los grupos de Canvas.
+
 ### Descripción del Curso
 
 El curso de Sistemas Recomendadores cubre las principales tareas de recomendación, algoritmos, fuentes de datos y evaluación de estos sistemas. Al final de este curso serás capaz de decidir qué técnicas y fuentes de datos usar para implementar y evaluar sistemas recomendadores.
